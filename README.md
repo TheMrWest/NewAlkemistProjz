@@ -1,5 +1,5 @@
 # NewAlkemistProjz
-- Scirpt de doar QI em chats publicos
+- Script de doar QI em chats publicos
 
 ```
 pip install -r requirements.txt
